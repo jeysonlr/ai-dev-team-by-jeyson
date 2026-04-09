@@ -50,7 +50,7 @@ Time completo de agentes de IA para criação, manutenção e automação de pro
                                       ↓
                     🖌️ Designer + 📣 Marketing + 💼 Sales
                                       ↓
-```                             ✅ ENTREGA APROVADA
+                             ✅ ENTREGA APROVADA
 
 ## 🚦 Critérios de Saída (Definition of Done)
 
