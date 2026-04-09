@@ -1,3 +1,4 @@
+```
 # 🤖 AI Dev Team by Jeyson
 
 Time completo de agentes de IA para criação, manutenção e automação de projetos reais de software — Powered by GitHub Copilot.
@@ -25,6 +26,12 @@ Time completo de agentes de IA para criação, manutenção e automação de pro
 | 16 | 🖌️ Designer | Design gráfico, identidade visual e UX/UI |
 | 17 | 📣 Marketing | Estratégia de marketing e posicionamento |
 | 18 | 💼 Sales | Estratégias de vendas e apresentação de valor |
+| 19 | 📱 Mobile Developer | Desenvolvimento de apps mobile iOS e Android |
+| 20 | 🤖 Data Scientist | Análise de dados e modelos de machine learning |
+| 21 | ☁️ Cloud Engineer | Infraestrutura e arquitetura cloud |
+| 22 | ✍️ Tech Writer | Documentação técnica e base de conhecimento |
+| 23 | 📋 Project Manager | Planejamento e gestão de projetos |
+| 24 | 🛠️ Support Engineer | Suporte técnico N1, N2 e N3 |
 
 ## 🔄 Fluxo de Trabalho
 
@@ -90,7 +97,13 @@ ai-dev-team-by-jeyson/
 │   ├── 15-blue-team/
 │   ├── 16-designer/
 │   ├── 17-marketing/
-│   └── 18-sales/
+│   ├── 18-sales/
+│   ├── 19-mobile-developer/
+│   ├── 20-data-scientist/
+│   ├── 21-cloud-engineer/
+│   ├── 22-tech-writer/
+│   ├── 23-project-manager/
+│   └── 24-support-engineer/
 ├── standards/
 │   ├── acceptance-criteria.md
 │   ├── definition-of-done.md
@@ -102,3 +115,4 @@ ai-dev-team-by-jeyson/
 
 ---
 > Criado por [@jeysonlr](https://github.com/jeysonlr) — Powered by GitHub Copilot 🤖
+```
