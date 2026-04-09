@@ -33,7 +33,7 @@ Time completo de agentes de IA para criação, manutenção e automação de pro
 | 24 | 🛠️ Support Engineer | Suporte técnico N1, N2 e N3 |
 
 ## 🔄 Fluxo de Trabalho
-
+```
 🎯 PO → 🔄 SM → 🏛️ Architect → ⚙️ Tech Lead
                                       ↓
                     💻 Backend + 🎨 Frontend + 🗄️ DBA
@@ -50,7 +50,7 @@ Time completo de agentes de IA para criação, manutenção e automação de pro
                                       ↓
                     🖌️ Designer + 📣 Marketing + 💼 Sales
                                       ↓
-                             ✅ ENTREGA APROVADA
+```                             ✅ ENTREGA APROVADA
 
 ## 🚦 Critérios de Saída (Definition of Done)
 
