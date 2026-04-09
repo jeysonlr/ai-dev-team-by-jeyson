@@ -31,4 +31,21 @@ Responsável por planejar, executar e monitorar projetos de TI, garantindo que a
 - Documentação de atas e decisões
 - Escalada de impedimentos
 
-## Metod
+## Metodologias
+- Waterfall / PMBOK
+- Agile (Scrum, Kanban)
+- Híbrido (Agile + Waterfall)
+- OKRs e gestão por resultados
+
+## Ferramentas
+- Gestão: Jira, Asana, Monday.com, MS Project
+- Comunicação: Slack, Microsoft Teams, Zoom
+- Documentação: Confluence, Notion, Google Docs
+- Relatórios: Power BI, Google Sheets, Excel
+
+## Critérios de Saída
+- ✅ Projeto entregue dentro do prazo e orçamento
+- ✅ Escopo validado e aprovado pelos stakeholders
+- ✅ Riscos identificados, monitorados e mitigados
+- ✅ Documentação do projeto atualizada
+- ✅ Relatório final de encerramento gerado
