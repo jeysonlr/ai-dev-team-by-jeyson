@@ -6,31 +6,31 @@ Time completo de agentes de IA para criação, manutenção e automação de pro
 
 | # | Agente | Papel |
 |---|--------|-------|
-| 00 | 🧠 Orchestrator | Orquestra o fluxo entre todos os agentes |
-| 01 | 🎯 Product Owner | Requisitos, backlog e critérios de aceite |
-| 02 | 🔄 Scrum Master | Cerimônias ágeis, impedimentos e fluxo |
-| 03 | 🏛️ Architect | Decisões de arquitetura e design de sistema |
-| 04 | ⚙️ Tech Lead | Liderança técnica e revisão de código |
-| 05 | 💻 Backend Dev | Desenvolvimento de APIs e serviços backend |
-| 06 | 🎨 Frontend Dev | Desenvolvimento de interfaces e UX |
-| 07 | 🗄️ DBA | Performance de banco de dados e modelagem |
-| 08 | 🛠️ Engineer | Engenharia de sistemas e infraestrutura |
-| 09 | 🧪 QA Engineer | Testes, validações e qualidade |
-| 10 | 🚀 DevOps | CI/CD, pipelines e automação |
-| 11 | 🔒 DevSecOps | Segurança integrada ao desenvolvimento |
-| 12 | 🛡️ SRE | Confiabilidade e disponibilidade |
-| 13 | 💰 FinOps | Gestão e otimização de custos |
-| 14 | 🔴 Red Team | Pentest e simulação de ataques |
-| 15 | 🔵 Blue Team | Defesa, monitoramento e resposta |
-| 16 | 🖌️ Designer | Design gráfico, identidade visual e UX/UI |
-| 17 | 📣 Marketing | Estratégia de marketing e posicionamento |
-| 18 | 💼 Sales | Estratégias de vendas e apresentação de valor |
-| 19 | 📱 Mobile Developer | Desenvolvimento de apps mobile iOS e Android |
-| 20 | 🤖 Data Scientist | Análise de dados e modelos de machine learning |
-| 21 | ☁️ Cloud Engineer | Infraestrutura e arquitetura cloud |
-| 22 | ✍️ Tech Writer | Documentação técnica e base de conhecimento |
-| 23 | 📋 Project Manager | Planejamento e gestão de projetos |
-| 24 | 🛠️ Support Engineer | Suporte técnico N1, N2 e N3 |
+| 00 | <a href="agents/00-orchestrator/README.md">🧠 Orchestrator</a> | Orquestra o fluxo entre todos os agentes |
+| 01 | <a href="agents/01-product-owner/README.md">🎯 Product Owner</a> | Requisitos, backlog e critérios de aceite |
+| 02 | <a href="agents/02-scrum-master/README.md">🔄 Scrum Master</a> | Cerimônias ágeis, impedimentos e fluxo |
+| 03 | <a href="agents/03-architect/README.md">🏛️ Architect</a> | Decisões de arquitetura e design de sistema |
+| 04 | <a href="agents/04-tech-lead/README.md">⚙️ Tech Lead</a> | Liderança técnica e revisão de código |
+| 05 | <a href="agents/05-backend-dev/README.md">💻 Backend Dev</a> | Desenvolvimento de APIs e serviços backend |
+| 06 | <a href="agents/06-frontend-dev/README.md">🎨 Frontend Dev</a> | Desenvolvimento de interfaces e UX |
+| 07 | <a href="agents/07-dba/README.md">🗄️ DBA</a> | Performance de banco de dados e modelagem |
+| 08 | <a href="agents/08-engineer/README.md">🛠️ Engineer</a> | Engenharia de sistemas e infraestrutura |
+| 09 | <a href="agents/09-qa-engineer/README.md">🧪 QA Engineer</a> | Testes, validações e qualidade |
+| 10 | <a href="agents/10-devops/README.md">🚀 DevOps</a> | CI/CD, pipelines e automação |
+| 11 | <a href="agents/11-devsecops/README.md">🔒 DevSecOps</a> | Segurança integrada ao desenvolvimento |
+| 12 | <a href="agents/12-sre/README.md">🛡️ SRE</a> | Confiabilidade e disponibilidade |
+| 13 | <a href="agents/13-finops/README.md">💰 FinOps</a> | Gestão e otimização de custos |
+| 14 | <a href="agents/14-red-team/README.md">🔴 Red Team</a> | Pentest e simulação de ataques |
+| 15 | <a href="agents/15-blue-team/README.md">🔵 Blue Team</a> | Defesa, monitoramento e resposta |
+| 16 | <a href="agents/16-designer/README.md">🖌️ Designer</a> | Design gráfico, identidade visual e UX/UI |
+| 17 | <a href="agents/17-marketing/README.md">📣 Marketing</a> | Estratégia de marketing e posicionamento |
+| 18 | <a href="agents/18-sales/README.md">💼 Sales</a> | Estratégias de vendas e apresentação de valor |
+| 19 | <a href="agents/19-mobile-developer/README.md">📱 Mobile Developer</a> | Desenvolvimento de apps mobile iOS e Android |
+| 20 | <a href="agents/20-data-scientist/README.md">🤖 Data Scientist</a> | Análise de dados e modelos de machine learning |
+| 21 | <a href="agents/21-cloud-engineer/README.md">☁️ Cloud Engineer</a> | Infraestrutura e arquitetura cloud |
+| 22 | <a href="agents/22-tech-writer/README.md">✍️ Tech Writer</a> | Documentação técnica e base de conhecimento |
+| 23 | <a href="agents/23-project-manager/README.md">📋 Project Manager</a> | Planejamento e gestão de projetos |
+| 24 | <a href="agents/24-support-engineer/README.md">🛠️ Support Engineer</a> | Suporte técnico N1, N2 e N3 |
 
 ## 🔄 Fluxo de Trabalho
 ```
