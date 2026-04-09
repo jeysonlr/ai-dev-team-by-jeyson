@@ -1,4 +1,3 @@
-```
 # 🤖 AI Dev Team by Jeyson
 
 Time completo de agentes de IA para criação, manutenção e automação de projetos reais de software — Powered by GitHub Copilot.
@@ -35,7 +34,6 @@ Time completo de agentes de IA para criação, manutenção e automação de pro
 
 ## 🔄 Fluxo de Trabalho
 
-```
 🎯 PO → 🔄 SM → 🏛️ Architect → ⚙️ Tech Lead
                                       ↓
                     💻 Backend + 🎨 Frontend + 🗄️ DBA
@@ -53,7 +51,6 @@ Time completo de agentes de IA para criação, manutenção e automação de pro
                     🖌️ Designer + 📣 Marketing + 💼 Sales
                                       ↓
                              ✅ ENTREGA APROVADA
-```
 
 ## 🚦 Critérios de Saída (Definition of Done)
 
@@ -73,7 +70,6 @@ Cada agente só libera para o próximo quando:
 
 ## 📁 Estrutura do Repositório
 
-```
 ai-dev-team-by-jeyson/
 ├── .github/
 │   ├── copilot-instructions.md
@@ -111,8 +107,6 @@ ai-dev-team-by-jeyson/
 │   └── code-quality-standards.md
 └── workflows/
     └── agent-pipeline.md
-```
 
 ---
 > Criado por [@jeysonlr](https://github.com/jeysonlr) — Powered by GitHub Copilot 🤖
-```
