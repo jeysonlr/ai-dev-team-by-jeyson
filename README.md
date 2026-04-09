@@ -69,7 +69,7 @@ Cada agente só libera para o próximo quando:
 4. Use os workflows de validação automática
 
 ## 📁 Estrutura do Repositório
-
+```
 ai-dev-team-by-jeyson/
 ├── .github/
 │   ├── copilot-instructions.md
@@ -107,6 +107,6 @@ ai-dev-team-by-jeyson/
 │   └── code-quality-standards.md
 └── workflows/
     └── agent-pipeline.md
-
+```
 ---
 > Criado por [@jeysonlr](https://github.com/jeysonlr) — Powered by GitHub Copilot 🤖
